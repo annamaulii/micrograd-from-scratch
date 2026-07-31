@@ -1,6 +1,6 @@
 # Micrograd from Scratch
 
-A scalar-valued automatic differentiation engine and multilayer perceptron implemented in pure Python.
+A scalar-valued automatic differentiation engine and multilayer perceptron implemented in Python.
 
 This project was built to understand how neural networks work below high-level frameworks such as PyTorch. It implements computation graphs, reverse-mode automatic differentiation, backpropagation, and gradient descent from first principles.
 
